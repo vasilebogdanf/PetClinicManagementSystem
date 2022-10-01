@@ -1,5 +1,8 @@
 package com.sda.vasilebogdanflorin.petclinic.utils;
 
+import com.sda.vasilebogdanflorin.petclinic.model.Pet;
+import com.sda.vasilebogdanflorin.petclinic.model.Vet;
+import com.sda.vasilebogdanflorin.petclinic.model.Consult;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
 
@@ -18,7 +21,9 @@ public static void shutDown(){
 }
     @Override
     protected void setAnnotatedClasses(Configuration configuration) {
-        // configuration.setAnnotedClasses(Vet.class)
+        configuration.addAnnotatedClass(Vet.class);
+        configuration.addAnnotatedClass(Pet.class);
+        configuration.addAnnotatedClass(Consult.class);
     }
 }
 
