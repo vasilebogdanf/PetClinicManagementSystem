@@ -4,6 +4,7 @@ public enum UserOption {
     ADD_VET(1,"Add a new value"),
     VIEW_ALL_VETS(2,"View all vets"),
     VIEW_VET_BY_ID(3,"View vet by id"),
+    UPDATE_VET_BY_ID(4,"Update vet by ID"),
     EXIT(99,"Exit!"),
     UNKNOWN(999999,"Invalid Option Selected");
 
