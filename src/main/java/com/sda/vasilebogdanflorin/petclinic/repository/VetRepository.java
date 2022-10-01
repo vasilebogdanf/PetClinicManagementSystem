@@ -12,4 +12,6 @@ public interface VetRepository {
     Optional<Vet> findById(int id);
 
     void updateVetById(int id,String firstName, String lastName, String address, String speciality);
+
+    void deleteVetById(int id);
 }

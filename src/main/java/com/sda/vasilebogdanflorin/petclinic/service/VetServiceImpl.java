@@ -7,8 +7,9 @@ import com.sda.vasilebogdanflorin.petclinic.service.VetService;
 import java.util.List;
 import java.util.Optional;
 
-public class VetServiceImpl implements VetService{
+public class VetServiceImpl implements VetService {
     private final VetRepository vetRepository;
+
     public VetServiceImpl(VetRepository vetRepository) {
 
         this.vetRepository = vetRepository;
@@ -43,7 +44,7 @@ public class VetServiceImpl implements VetService{
 
     @Override
     public void updateVetById(int id, String firstName, String lastName, String address, String speciality) {
-        if (id <0 ) {
+        if (id < 0) {
             throw new IllegalStateException("Id is invalid");
         }
         if (firstName == null || firstName.isBlank()) {
@@ -58,7 +59,15 @@ public class VetServiceImpl implements VetService{
         if (speciality == null || speciality.isBlank()) {
             throw new IllegalStateException("First name is invalid");
         }
-        vetRepository.updateVetById(id,firstName,lastName,address,speciality);
+        vetRepository.updateVetById(id, firstName, lastName, address, speciality);
+    }
+
+    @Override
+    public void deleteById(int id) {
+        if (id < 0) {
+            throw new IllegalArgumentException("Id is invalid");
+        }
+        vetRepository.deleteVetById(id);
     }
 }
 
