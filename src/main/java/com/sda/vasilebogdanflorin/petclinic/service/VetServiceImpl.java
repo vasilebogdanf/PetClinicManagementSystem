@@ -1,7 +1,10 @@
 package com.sda.vasilebogdanflorin.petclinic.service;
 
+import com.sda.vasilebogdanflorin.petclinic.model.Vet;
 import com.sda.vasilebogdanflorin.petclinic.repository.VetRepository;
 import com.sda.vasilebogdanflorin.petclinic.service.VetService;
+
+import java.util.List;
 
 public class VetServiceImpl implements VetService{
     private final VetRepository vetRepository;
@@ -9,6 +12,7 @@ public class VetServiceImpl implements VetService{
 
         this.vetRepository = vetRepository;
     }
+
     @Override
     public void createVet(String firstName, String lastName, String address, String speciality) {
         if (firstName == null || firstName.isBlank()) {
@@ -24,6 +28,11 @@ public class VetServiceImpl implements VetService{
             throw new IllegalStateException("First name is invalid");
         }
         vetRepository.createVet(firstName, lastName, address, speciality);
+    }
+
+    @Override
+    public List<Vet> getAllVets() {
+        return vetRepository.getAllVets();
     }
 }
 
