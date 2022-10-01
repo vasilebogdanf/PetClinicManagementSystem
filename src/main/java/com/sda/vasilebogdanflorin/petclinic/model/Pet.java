@@ -1,5 +1,7 @@
 package com.sda.vasilebogdanflorin.petclinic.model;
 
+import net.bytebuddy.dynamic.loading.InjectionClassLoader;
+
 import javax.persistence.*;
 import java.sql.Date;
 import java.util.List;
@@ -9,8 +11,9 @@ import java.util.List;
 public class Pet {
 
     @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column (name="id")
-    private int id;
+    private Integer id;
     @Column(name="race")
     private String race;
     @Column (name="birthdate")
@@ -46,7 +49,21 @@ public class Pet {
                 ", date=" + date +
                 ", isVaccinated=" + isVaccinated +
                 ", ownerName='" + ownerName + '\'' +
+                ", consults=" + consults +
                 '}';
+    }
+
+    public Pet(Integer id, String race, Date date, boolean isVaccinated, String ownerName, List<Consult> consults) {
+        this.id = id;
+        this.race = race;
+        this.date = date;
+        this.isVaccinated = isVaccinated;
+        this.ownerName = ownerName;
+        this.consults = consults;
+    }
+
+    public void setId(Integer id) {
+        this.id = id;
     }
 
     public void setRace(String race) {
@@ -65,7 +82,7 @@ public class Pet {
         this.ownerName = ownerName;
     }
 
-    public int getId() {
+    public Integer getId() {
         return id;
     }
 
@@ -83,13 +100,5 @@ public class Pet {
 
     public String getOwnerName() {
         return ownerName;
-    }
-
-    public Pet(int id, String race, Date date, boolean isVaccinated, String ownerName) {
-        this.id = id;
-        this.race = race;
-        this.date = date;
-        this.isVaccinated = isVaccinated;
-        this.ownerName = ownerName;
     }
 }

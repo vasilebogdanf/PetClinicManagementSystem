@@ -8,7 +8,9 @@ import java.util.List;
 @Table (name="vet")
 public class Vet {
    @Id
-    private int id;
+   @GeneratedValue(strategy = GenerationType.IDENTITY)
+   @Column (name="id")
+    private Integer id;
 
    @Column(name="first_name")
     private String firstName;
@@ -35,16 +37,16 @@ public class Vet {
 
    }
 
-
-    public Vet(int id, String firstName, String lastName, String address, String speciality) {
+    public Vet(Integer id, String firstName, String lastName, String address, String speciality, List<Consult> consults) {
         this.id = id;
         this.firstName = firstName;
         this.lastName = lastName;
         this.address = address;
         this.speciality = speciality;
+        this.consults = consults;
     }
 
-    public int getId() {
+    public Integer getId() {
         return id;
     }
 
@@ -64,7 +66,7 @@ public class Vet {
         return speciality;
     }
 
-    public void setId(int id) {
+    public void setId(Integer id) {
         this.id = id;
     }
 
@@ -92,6 +94,7 @@ public class Vet {
                 ", lastName='" + lastName + '\'' +
                 ", address='" + address + '\'' +
                 ", speciality='" + speciality + '\'' +
+                ", consults=" + consults +
                 '}';
     }
 }
