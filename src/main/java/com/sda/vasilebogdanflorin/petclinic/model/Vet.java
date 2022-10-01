@@ -94,7 +94,6 @@ public class Vet {
                 ", lastName='" + lastName + '\'' +
                 ", address='" + address + '\'' +
                 ", speciality='" + speciality + '\'' +
-                ", consults=" + consults +
                 '}';
     }
 }

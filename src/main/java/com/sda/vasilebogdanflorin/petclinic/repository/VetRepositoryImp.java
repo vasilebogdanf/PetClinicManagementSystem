@@ -5,6 +5,7 @@ import org.hibernate.Session;
 import org.hibernate.Transaction;
 
 import java.util.List;
+import java.util.Optional;
 
 public class VetRepositoryImp implements VetRepository{
         @Override
@@ -32,6 +33,16 @@ public class VetRepositoryImp implements VetRepository{
             return allVets;
         }
     }
+
+    @Override
+    public Optional<Vet> findById(int id) {
+        try(Session session=SessionManager.getSessionFactory().openSession()){
+            Vet vet= session.find(Vet.class,id);
+            return Optional.ofNullable(vet);
+        }
+    }
+
+
 }
 
 
