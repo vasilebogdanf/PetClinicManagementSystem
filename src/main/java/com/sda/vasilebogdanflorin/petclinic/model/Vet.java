@@ -31,7 +31,7 @@ public class Vet {
         this.consults = consults;
     }
 
-    private Vet(){
+    public Vet(){
 
    }
 
