@@ -7,7 +7,10 @@ public enum UserOption {
     UPDATE_VET_BY_ID(4,"Update vet by id"),
     DELETE_BY_ID(5,"Delete vet by Id"),
     EXIT(99,"Exit!"),
+
+    ADD_PET(6,"Add a new Pet"),
     UNKNOWN(999999,"Invalid Option Selected");
+
 
     private final int numericOption;
     private  String displayValue;

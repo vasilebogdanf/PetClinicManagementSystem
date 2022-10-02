@@ -31,7 +31,9 @@ public class Pet {
     private List<Consult> consults;
 
 
+    public Pet() {
 
+    }
 
     public void setConsults(List<Consult> consults) {
         this.consults = consults;
