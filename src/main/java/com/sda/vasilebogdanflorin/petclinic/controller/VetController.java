@@ -3,6 +3,7 @@ package com.sda.vasilebogdanflorin.petclinic.controller;
 import com.sda.vasilebogdanflorin.petclinic.model.Vet;
 import com.sda.vasilebogdanflorin.petclinic.service.VetService;
 
+import java.io.IOException;
 import java.util.InputMismatchException;
 import java.util.Optional;
 import java.util.Scanner;
@@ -99,6 +100,17 @@ public class VetController {
         } catch (Exception e) {
             System.err.println("Internal server error");
             e.printStackTrace();
+        }
+
+    }
+
+    public void importVets() {
+        try {
+            System.out.println("Imports vets started");
+            vetService.importVets();
+            System.out.println("Import vets finished");
+        } catch (IOException e) {
+            System.out.println("Import vets failed!");
         }
 
     }

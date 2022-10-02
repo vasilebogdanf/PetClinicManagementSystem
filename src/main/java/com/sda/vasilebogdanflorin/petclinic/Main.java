@@ -48,7 +48,14 @@ public class Main {
                 case ADD_PET:
                     petController.createPet();
                 case UNKNOWN:
+
                     System.err.println("Invalid option selected");
+                    break;
+                case IMPORT_VETS:
+                    vetController.importVets();
+                    break;
+                case IMPORT_PETS:
+                    petController.importPets();
                     break;
                 case EXIT:
                     System.out.println("Bye");

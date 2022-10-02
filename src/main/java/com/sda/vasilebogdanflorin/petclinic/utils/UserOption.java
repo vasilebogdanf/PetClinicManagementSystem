@@ -6,9 +6,14 @@ public enum UserOption {
     VIEW_VET_BY_ID(3,"View vet by id"),
     UPDATE_VET_BY_ID(4,"Update vet by id"),
     DELETE_BY_ID(5,"Delete vet by Id"),
+    ADD_PET(6,"Add a new Pet"),
+
+    IMPORT_VETS(7,"Import vets"),
+
+    IMPORT_PETS(8,"Import pets"),
     EXIT(99,"Exit!"),
 
-    ADD_PET(6,"Add a new Pet"),
+
     UNKNOWN(999999,"Invalid Option Selected");
 
 

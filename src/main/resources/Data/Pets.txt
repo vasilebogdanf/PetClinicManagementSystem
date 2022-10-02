@@ -1,0 +1,1001 @@
+race|birthday|isVaccinated|ownerName
+Kelp gull|19-08-2021|false|Hilton Mantrup
+Rhesus macaque|01-04-2021|false|Alfie Polk
+Macaw, red and blue|04-04-2020|true|Shanon Gypson
+Brazilian tapir|13-05-2020|true|Dusty Maryin
+Small-toothed palm civet|28-08-2022|false|Mead Killgus
+Heron, gray|30-11-2019|false|Bendix Dracey
+African ground squirrel (unidentified)|01-05-2021|true|Glenn OIlier
+Green-winged trumpeter|15-12-2018|true|Jilli Phidgin
+Badger, eurasian|17-03-2019|true|Vania Bartak
+Colobus, white-mantled|16-01-2020|false|Hildagard Jeandin
+Starling, red-shouldered glossy|17-11-2019|true|Giraldo Wormleighton
+Mallard|11-04-2022|true|Aleta Cerman
+Green vine snake|16-01-2020|true|Walker Bottrill
+Brocket, red|31-07-2022|true|Yorgo Godbehere
+Cat, ringtail|28-04-2019|true|Ernest Olenchikov
+Lion, asian|12-04-2022|false|Ulberto Petschelt
+Polecat, african|27-06-2022|false|Chaddy Alsop
+Leopard, indian|26-12-2019|true|Margaretta Skeldinge
+Badger, european|25-04-2022|true|Nicholle Gookes
+Hippopotamus|02-04-2019|true|Kaine Eamer
+Hen, sage|09-08-2019|true|Worden Gigg
+Shrike, common boubou|26-06-2021|true|Roderic Blackey
+Shrew, mandras tree|09-01-2020|true|Vernice Jeyness
+Yak|21-11-2019|false|Raynell Batrop
+Anteater, australian spiny|21-05-2019|false|Carolus Membry
+Mallard|24-08-2021|false|Wandis Clabburn
+Avocet, pied|03-08-2020|true|Roze Pallin
+Admiral, indian red|01-05-2020|true|Elva Surby
+Hawk, ferruginous|06-09-2021|false|Fritz Garmans
+Coatimundi, ring-tailed|25-04-2021|false|Dacy Rehorek
+Small-spotted genet|26-04-2021|true|Boothe Tonbridge
+Tern, arctic|06-06-2022|false|Chastity Duester
+Asian openbill|16-03-2020|false|Agnesse Datte
+Bateleur eagle|07-02-2020|true|Caye McLanachan
+Grison|21-06-2021|true|Jeri Darlasson
+Great kiskadee|21-01-2021|false|Marleen Lenoir
+Possum, golden brush-tailed|18-06-2021|true|Veda Shalliker
+Springbuck|20-08-2020|true|Milena Niese
+Sea birds (unidentified)|23-05-2019|true|Gherardo Pinnigar
+Cat, african wild|25-06-2021|false|Ellen Cleveley
+Beaver, north american|12-02-2019|true|Terrell Kniveton
+Eagle, crowned|25-09-2022|false|Madelena Tomblett
+Wolf, mexican|13-08-2020|true|Kennan Ballin
+Turtle, long-necked|07-10-2019|true|Garwin Bowkett
+Chestnut weaver|09-04-2019|false|Baxie Sauter
+Coatimundi, white-nosed|04-03-2021|true|Nedda De Giorgis
+Grey-footed squirrel|10-11-2018|false|Waiter Billie
+Horned rattlesnake|15-11-2019|false|Piggy De Malchar
+Red and blue macaw|03-10-2021|false|Grace Fillery
+Fox, blue|06-04-2022|true|Agnesse Hogben
+Duiker, gray|16-04-2022|false|Robinson Densun
+Whale, southern right|23-01-2019|true|Seka Petrelluzzi
+Duck, blue|20-09-2022|false|Tallou Oldis
+Arctic ground squirrel|17-12-2019|false|Tristam Bissex
+African fish eagle|28-03-2020|true|Griff Bannell
+Common dolphin|05-01-2022|true|Ivie Redsall
+Dove, mourning collared|15-04-2019|false|Bryce Yakebovitch
+Superb starling|19-04-2021|false|Amata Rylstone
+Malagasy ground boa|02-07-2021|true|Marcelia Hubber
+Raccoon, crab-eating|23-10-2020|true|Edin Louys
+Feathertail glider|18-10-2019|true|Marcille Cowterd
+Fisher|21-06-2019|true|Mala Clue
+Squirrel, arctic ground|08-04-2020|true|Jodie Verne
+Otter, african clawless|04-09-2022|false|Petronille Fritzer
+Glossy ibis|21-06-2022|true|Loise Sprionghall
+Thrasher, curve-billed|17-02-2019|false|Patty Pheasant
+Heron, boat-billed|22-08-2022|false|Annamarie Annis
+American bison|27-03-2019|false|Othelia Mattielli
+Radiated tortoise|07-08-2019|false|Bronnie Probbing
+Skua, long-tailed|13-09-2021|true|Brannon Offer
+White-winged dove|06-10-2020|true|Celle Dufaire
+Great horned owl|23-04-2020|true|Desiri Nani
+Snowy sheathbill|26-01-2022|true|Diahann Gilfoy
+Anaconda (unidentified)|03-03-2020|false|Bee Cottey
+Eastern grey kangaroo|24-06-2022|true|Brittni Dwire
+Impala|25-08-2019|true|Lyndel Mannooch
+Pigeon, wood|25-07-2021|true|Roland Harber
+Serval|28-12-2019|false|Darrick D'Aguanno
+Red-winged blackbird|14-09-2020|false|Valencia Buntine
+Tayra|13-04-2019|true|Zeke Haslock
+Knob-nosed goose|17-12-2018|true|Melvyn Poppy
+Goanna lizard|05-12-2019|false|Shelia Adamkiewicz
+Ibis, puna|08-12-2019|true|Willy Casburn
+Cat, jungle|20-06-2021|true|Renee Sargison
+Mocking cliffchat|16-07-2021|false|Merv Euston
+Grey mouse lemur|02-06-2019|true|Suzanne Dudliston
+Spurfowl, yellow-necked|10-06-2019|true|Felicdad Acory
+Eastern box turtle|18-12-2021|false|Seana Dacca
+Three-banded plover|06-10-2021|true|Ronnica Roney
+Indian leopard|27-07-2020|false|Madelaine Norledge
+Ring-tailed coatimundi|27-04-2022|false|Ernestine McGeneay
+Feathertail glider|04-04-2020|false|Nev Edgars
+Brolga crane|04-05-2021|true|Benedick Breckell
+Fox, crab-eating|25-07-2021|false|Sergeant Speight
+Emerald-spotted wood dove|20-04-2020|false|Averyl Walisiak
+Lizard, giant girdled|21-06-2022|true|Darryl Crang
+Worm snake (unidentified)|29-05-2020|true|Karena Millichip
+Dusky rattlesnake|19-07-2022|false|Silvana Hariot
+Turkey, common|13-05-2021|false|Lynsey Leban
+Stork, white|06-10-2021|true|Dana Djorevic
+Bleu, blue-breasted cordon|10-10-2020|true|Meaghan Peacocke
+Paca|21-12-2021|false|Haskell Tommei
+Black bear|14-04-2020|false|Barthel Brayson
+Red-tailed hawk|29-10-2020|false|Benedicto Imms
+Currasow (unidentified)|13-08-2019|true|Dorri Sears
+Ibis, puna|30-08-2021|true|Ebonee Aulds
+Asian foreset tortoise|06-06-2020|true|Camille Eastby
+Lesser masked weaver|04-12-2020|true|Keefer Lammers
+Black bear|14-01-2020|true|Nial Dagg
+Squirrel, nelson ground|28-09-2020|false|Guntar Lilleycrop
+Tern, white-winged|19-06-2020|false|Sebastian Risom
+Grizzly bear|01-02-2022|true|Codee Hatherill
+Lizard, frilled|17-02-2019|true|Mufinella Edgars
+Dusky rattlesnake|23-06-2022|false|Kerry Murkus
+North American beaver|13-10-2020|true|Janel Lockie
+Dabchick|14-12-2019|false|Doyle Hengoed
+Black kite|15-05-2021|true|Rogerio Caville
+Owl, burrowing|04-04-2021|true|Vince Forsbey
+Common wallaroo|31-12-2019|true|Gran Noseworthy
+Striped skunk|10-04-2021|true|Lenci Stern
+Pied cormorant|05-10-2021|true|Vale Chater
+Ring-tailed coatimundi|14-12-2021|false|D'arcy Rance
+Numbat|19-07-2020|false|Talbert Birtwell
+Cormorant, king|03-09-2019|false|Angela Remington
+Wildebeest, blue|07-01-2019|false|Jorry Constantinou
+Dog, african wild|22-09-2020|false|Ambrosio Julian
+Shelduck, common|26-12-2020|true|Dori Bransby
+Azara's zorro|26-11-2020|false|Dominga Geistmann
+Blue-faced booby|01-11-2018|true|Daron Lawrenson
+Gazelle, grant's|30-04-2022|false|Saunders Portam
+Musk ox|05-11-2018|true|Valry Pruvost
+Stork, marabou|21-07-2019|false|Venus Trayling
+Australian pelican|04-10-2021|true|Winny Grinikhinov
+Goanna lizard|13-08-2022|true|Rafaelita Presnail
+Gila monster|23-06-2020|false|Dell Padefield
+Sugar glider|03-12-2021|false|Rudolf Domney
+Hornbill, yellow-billed|08-03-2021|false|Addia Seavers
+Lemur, sportive|10-07-2022|false|Cassaundra Roddie
+Lizard, desert spiny|15-11-2020|true|Raffaello Steabler
+Heron, gray|27-03-2021|false|Craggy Leetham
+Bear, sloth|26-01-2020|true|Brook Purbrick
+Indian giant squirrel|18-10-2019|false|Faustine Marten
+Woodcock, american|22-06-2021|false|Toma Bartoletti
+White rhinoceros|16-09-2020|false|Neda Heninghem
+Chuckwalla|23-11-2018|false|Robinson Dusting
+Zebra, common|31-05-2021|false|Gaby Pothergill
+Capybara|09-07-2022|true|Rinaldo Di Biaggi
+Wombat, southern hairy-nosed|17-07-2021|false|Theodore Gerrad
+Square-lipped rhinoceros|22-05-2021|false|Darcey Shinefield
+Red and blue macaw|23-11-2021|true|Bartolomeo Exall
+Shrike, southern white-crowned|25-01-2019|false|Isidor Balaison
+Native cat|07-07-2019|true|Ronda Brando
+Bat, asian false vampire|02-08-2019|true|Adolpho Lieb
+Kangaroo, jungle|26-05-2021|true|Stanly Jennrich
+Langur, hanuman|10-12-2020|true|Gaby Kemston
+Striped dolphin|08-09-2022|false|Sarena Coode
+European red squirrel|11-10-2018|false|Mia Klejin
+Mongoose, small indian|16-02-2022|false|Michal Newland
+Mouse, four-striped grass|13-02-2020|false|Mack Jecks
+Pheasant, common|04-03-2020|false|Hamlen O'Dougherty
+Dove, mourning collared|21-02-2021|false|Gregorius Aslie
+Kirk's dik dik|08-08-2020|false|Sabrina Dumini
+Goose, canada|13-09-2019|true|Amandi Holdron
+Marshbird, brown and yellow|06-06-2020|true|Rois cornhill
+Cougar|07-11-2020|true|Spencer Baurerich
+American marten|09-08-2021|true|Danie Itscovitz
+Grebe, little|16-09-2022|false|Cheri Hallford
+Blue-breasted cordon bleu|31-08-2022|true|Cyrillus Vandenhoff
+Goose, spur-winged|18-06-2022|false|Isador Aleksankin
+Python (unidentified)|18-09-2021|false|Jessey Emeline
+Wallaby, dama|27-10-2020|false|Vonni Spratt
+Seal, common|29-08-2019|false|Chan Scandwright
+Stick insect|29-11-2018|true|Lion Rubinchik
+White-browed sparrow weaver|08-04-2022|true|Roddie Stembridge
+Monkey, bleeding heart|08-09-2021|true|Bart Wilson
+Owl, great horned|20-07-2019|false|Ginni Kinforth
+Red-legged pademelon|02-09-2022|false|Lidia Escudier
+Deer, savannah|30-09-2019|true|Egon Bertelsen
+Woodpecker, downy|19-02-2020|false|Alastair Camerana
+Fox, cape|11-02-2021|true|Myra La Croce
+Bushbaby, large-eared|30-08-2022|true|Svend Emmot
+Shelduck, common|27-07-2022|true|Hansiain Franciskiewicz
+Australian magpie|05-11-2018|true|Cally Bingall
+Stone sheep|31-12-2021|false|Reider Coffin
+Leopard, indian|02-02-2019|false|Genny Galia
+White-necked stork|22-07-2022|true|Camile Charpin
+Chipmunk, least|03-04-2020|true|Brittaney Gilder
+Pheasant, ring-necked|13-02-2022|true|Jeremias Christoffe
+Agama lizard (unidentified)|15-02-2019|true|Dionisio Langhorn
+White rhinoceros|07-03-2021|true|Penny Maxwaile
+Buffalo, asian water|27-07-2022|false|Siouxie Sharplin
+Onager|16-10-2020|true|Aigneis Seed
+Gecko, bent-toed|28-04-2021|false|Christin Maymond
+Crested screamer|13-02-2021|true|Sissy Greengrass
+Golden brush-tailed possum|19-06-2019|true|Denys Ames
+Little brown bat|31-07-2022|true|Warde Broseman
+Common green iguana|03-03-2022|false|Trey Bickerstaffe
+Fox, grey|23-04-2019|true|Hervey Smalley
+Eastern fox squirrel|30-10-2019|true|Boris Reeson
+Hyena, striped|13-11-2020|true|Emelen Scarlan
+Squirrel, eastern fox|21-05-2019|true|Ermin Seagrave
+Oriental white-backed vulture|20-04-2019|false|Alexia Durham
+Squirrel, indian giant|08-12-2018|false|Ibrahim Greenlies
+Iguana, land|23-09-2019|false|Raffarty Monckman
+Lion, southern sea|29-03-2020|false|Jone O'Glassane
+Eurasian red squirrel|03-02-2022|true|Gino Busswell
+Indian giant squirrel|01-01-2022|true|Terza Cribbins
+Lemur, ring-tailed|25-05-2020|false|Bria Godwyn
+White-throated robin|16-04-2022|true|Hillard Ilden
+Platypus|25-11-2018|true|Bonita Beeze
+Pintail, white-cheeked|01-06-2019|true|Almira Lesly
+Rock dove|29-10-2020|false|Myer Kisting
+Macaw, scarlet|11-06-2020|false|Cosmo Blaxill
+Silver gull|27-01-2021|false|Jessika Pleasaunce
+Pelican, brown|05-09-2019|true|Pansy Dayborne
+Legaan, ground|23-04-2021|true|Bili Steinson
+Horned puffin|07-08-2022|true|Judon Becraft
+Stone sheep|02-08-2022|true|Jacobo Flipek
+Starling, superb|25-05-2022|true|Bald Harry
+Darwin ground finch (unidentified)|20-01-2021|false|Honoria Dorrian
+Baboon, yellow|05-03-2022|true|Dulcine Seary
+Southern brown bandicoot|26-08-2021|true|Emalia Delicate
+Red-necked phalarope|29-09-2022|true|Ben Rubinek
+Owl, burrowing|06-02-2022|true|Cecilius Boorer
+Python (unidentified)|04-12-2020|true|Warren Bows
+Argalis|25-09-2019|false|Reidar Skrines
+Coke's hartebeest|27-06-2019|true|Wilona Scare
+Long-necked turtle|30-06-2020|true|Kamillah Sears
+Heron, boat-billed|20-07-2021|false|Riane Geertsen
+Green-winged trumpeter|15-03-2022|false|Carolee Layburn
+Deer, swamp|27-08-2020|false|Bee Gribbin
+Long-billed cockatoo|31-05-2020|false|Joann Ripley
+Crane, blue|29-07-2021|false|Hanni Colombier
+Sheathbill, snowy|25-10-2019|false|Dotti Sheals
+Least chipmunk|18-07-2021|true|Aloisia Potkin
+Puma, south american|22-10-2020|true|Marv Tarbin
+Little heron|12-02-2019|true|Philomena Kowal
+Jacana, african|04-08-2022|false|Tomlin Sigmund
+Eurasian beaver|20-11-2019|false|Zachariah Gibson
+Langur, gray|08-04-2022|false|Abbey Buggs
+Waved albatross|29-12-2018|false|Fowler Sighard
+Bontebok|04-03-2020|true|Ringo Davidovic
+Penguin, galapagos|01-08-2021|true|Aloysia Southouse
+Cockatoo, long-billed|04-05-2020|false|Rozanna Delleschi
+Orca|09-02-2020|false|Gilburt Winstanley
+Burchell's gonolek|06-02-2020|true|Annabel Engledow
+Asian elephant|04-01-2019|true|Vin Condy
+Grey mouse lemur|14-05-2022|false|Cobby Kertess
+Long-tailed skua|07-01-2021|true|Jeanine Romain
+Blue and yellow macaw|29-08-2019|true|York Dower
+Eastern dwarf mongoose|13-04-2021|true|Kamilah Buxcey
+Dove, white-winged|15-03-2020|true|Mohandis Oxtoby
+Butterfly (unidentified)|27-11-2018|false|Rosemary MacAllen
+Heron, goliath|01-04-2021|true|Tremayne Pietron
+Brush-tailed phascogale|23-02-2021|false|Cathyleen Fishbourne
+Dolphin, bottle-nose|05-10-2020|false|Krispin Moen
+Southern sea lion|03-11-2019|false|Pen de Verson
+Jackal, silver-backed|08-11-2018|true|Julianne Dahlman
+Curve-billed thrasher|09-01-2019|false|Chan Giveen
+Sloth, two-toed|08-01-2022|true|Emlen Hardwidge
+Spur-winged goose|24-05-2022|false|Elwira Roser
+King cormorant|16-09-2021|false|Sal Fihelly
+Bulbul, african red-eyed|26-02-2021|false|Loretta Joreau
+Manatee|21-10-2018|true|Christoffer de Banke
+Anteater, giant|09-12-2019|false|Noell Jewson
+Porcupine, prehensile-tailed|30-07-2020|false|Ruthann Britner
+Southern black-backed gull|05-02-2022|false|Briano Farey
+Black-collared barbet|05-01-2021|true|Alissa Collip
+Heron, black-crowned night|16-09-2020|false|Lillis Baume
+Nilgai|17-09-2022|true|Mae Parken
+Swan, black|31-12-2020|true|Shannah Illyes
+Southern elephant seal|23-04-2020|false|Rubina Lindeman
+Black-capped chickadee|05-11-2020|true|Shauna Coe
+Arctic ground squirrel|06-08-2019|false|Lacee Tipper
+Spectacled caiman|21-01-2019|false|Bertie Mayberry
+Snake, tiger|30-01-2020|true|Agustin Waterhous
+Hawk-eagle, crowned|18-11-2021|false|Sayer Rate
+Roller, lilac-breasted|15-01-2022|true|Sarene Nichols
+Pygmy possum|08-01-2019|true|Izaak Pepye
+Frilled lizard|03-02-2019|false|Burty Gepheart
+Dog, bush|15-12-2018|true|Annadiana Vigrass
+Red and blue macaw|12-06-2021|true|Loutitia Flewitt
+Urial|18-07-2022|true|Gae Wansbury
+Phalarope, red|07-04-2021|false|Orlando Shutle
+Dove, mourning collared|18-07-2020|true|Rhona Batson
+Boa, columbian rainbow|17-09-2022|false|Ole Galier
+Grey-footed squirrel|28-05-2021|true|Madlin Yong
+Zorro, azara's|05-02-2022|true|Zeb Weldrake
+Dove, galapagos|09-08-2019|true|Anna-diana Klisch
+American buffalo|30-06-2021|true|Judas Welband
+Sandgrouse, yellow-throated|21-03-2022|false|Essie Moniker
+African black crake|11-11-2020|true|Renaud Bradock
+Plover, blacksmith|14-06-2022|false|Giorgi Vassano
+Common seal|17-06-2022|true|Parrnell Bridgland
+Red-billed toucan|25-10-2020|true|Augustin Lock
+Yellow-throated sandgrouse|12-04-2022|false|Jilli Cain
+Cormorant (unidentified)|21-09-2022|true|Shayne Egdal
+Pheasant, ring-necked|20-12-2019|false|Zebadiah Strongitharm
+Gull, kelp|06-03-2022|true|Laurel Dowber
+Asian openbill|19-09-2022|true|Dyanne Keyhoe
+Emerald green tree boa|14-04-2021|false|Austin Greed
+Squirrel, african bush|24-02-2021|true|Dru Ferrari
+Vulture, turkey|26-12-2021|true|Beauregard Splain
+Sportive lemur|03-04-2019|true|Allianora Caddell
+Common goldeneye|09-09-2019|false|Phedra Dadd
+Spoonbill, white|17-09-2022|false|Rafaelita Wells
+Creeper, black-tailed tree|31-12-2019|false|Pattie Kingsnode
+Little blue penguin|11-09-2021|true|Eleonore Lunge
+Praying mantis (unidentified)|10-07-2020|true|Morry Huckerbe
+Vulture, black|23-07-2021|true|Mort Aspland
+Mongoose, eastern dwarf|22-07-2019|true|Niko Biggin
+Eastern indigo snake|17-04-2019|true|Ashely Marcum
+Gelada baboon|04-10-2021|false|Jaine Gerrie
+Golden brush-tailed possum|24-10-2018|false|Sasha Durston
+American black bear|04-11-2020|true|Wallas Tomlin
+Heron, striated|16-05-2022|true|Giulio Penley
+Herring gull|10-05-2020|false|Berton Biggs
+Native cat|24-01-2020|true|Sheilakathryn Mewes
+Indian porcupine|27-05-2021|true|Carmita Schukraft
+Tern, arctic|18-01-2021|false|Horst Durston
+Cat, native|13-08-2021|false|Sean Euston
+Common wombat|12-02-2020|true|Noak Ferrara
+Eagle, golden|09-06-2021|false|Reta Risso
+Common turkey|23-03-2022|true|Aurlie Falco
+Comb duck|26-03-2021|false|Viviyan Costan
+Cormorant, little|20-04-2020|false|Doroteya Kunze
+American bison|24-06-2022|true|Tine Teodorski
+Gulls (unidentified)|09-06-2019|false|Kennie Cuxon
+Heron, giant|04-02-2020|true|Matty Joris
+Cormorant (unidentified)|15-10-2021|true|Corabel Mowson
+Magistrate black colobus|28-11-2019|false|Ansley Treven
+Asian openbill|16-11-2019|true|Nicolina Kingham
+Common raccoon|03-08-2019|false|Marlene Ripper
+Elephant, asian|16-12-2019|false|Constancy Meiklam
+Owl, great horned|06-10-2021|true|Babette Ivery
+Mockingbird, galapagos|04-02-2022|true|Laurena Lesper
+Galapagos albatross|07-03-2020|false|Ariana Odom
+Jackal, silver-backed|17-07-2022|true|Shaylyn Wife
+Phalarope, northern|25-07-2020|false|Romy Timmons
+Paddy heron (unidentified)|10-08-2021|false|Lou Dunnet
+Blue and gold macaw|15-02-2021|true|Tabitha Have
+Heron, giant|19-12-2019|false|Melloney Muckloe
+Wild boar|04-07-2019|false|Lynnet Cromett
+Savanna fox|06-11-2019|true|Maura Deackes
+Oriental white-backed vulture|12-09-2020|true|Jillian Picton
+Brown antechinus|06-08-2022|false|Patrice Bassingden
+Common turkey|02-04-2021|true|Bourke Porch
+Crow, pied|18-11-2019|false|Kellina Starten
+Wapiti, elk,|26-03-2020|false|Don Elleyne
+Squirrel, nelson ground|13-12-2021|true|Melita Coverlyn
+Dog, african wild|27-06-2021|false|Kimbra Mitcham
+Little cormorant|23-05-2022|false|Hazlett Hauxley
+Common genet|15-09-2021|false|Cherianne Bines
+Koala|29-03-2021|true|Aleta Ginity
+Tamandua, southern|06-07-2021|true|Gardy Leverette
+Duck, comb|21-03-2020|true|Palmer Feldhammer
+Helmeted guinea fowl|02-08-2021|true|Sharron Baudasso
+Phalarope, northern|30-07-2022|true|Floria Burder
+European shelduck|20-07-2022|true|Alanson Leahy
+Blue-faced booby|04-10-2020|false|Jamie Mereweather
+Buffalo, african|30-10-2020|false|Vinnie Grigorescu
+Common green iguana|06-06-2020|false|Donetta Wherton
+Grison|17-07-2022|true|Bradly Stockow
+American crow|15-09-2020|true|Guillermo Vynarde
+Giant armadillo|15-03-2022|false|Edouard Sambrook
+Tortoise, indian star|27-08-2019|false|Janetta Bewlie
+Tern, arctic|05-12-2018|false|Clare Georgi
+Red brocket|11-10-2020|true|Chrystel Kinglake
+Southern boubou|29-11-2021|false|Pegeen Disbrow
+Black spider monkey|12-04-2020|true|Cthrine Hopkynson
+Common raccoon|22-10-2020|false|Darbee Mordecai
+Teal, hottentot|08-04-2022|false|Joane Strowger
+Four-horned antelope|25-08-2020|false|Cointon Fleckno
+Snake-necked turtle|13-02-2020|true|Amil Pesselt
+Tortoise, burmese black mountain|15-07-2021|false|Alica Mabb
+Gray duiker|17-06-2022|false|Noreen Bartzen
+Flicker, campo|17-03-2021|false|Marietta O'Cridigan
+Bee-eater, white-fronted|24-06-2021|true|Kev Batchan
+Alligator, mississippi|28-08-2019|true|Diane-marie Cassel
+Vulture, black|22-02-2021|false|Charis Petrovic
+Striped hyena|05-04-2022|false|Kingsly Skydall
+Emerald-spotted wood dove|05-10-2020|true|Chrissy Quinby
+Trumpeter, dark-winged|11-07-2019|true|Alisun Goldsbrough
+Macaw, red and blue|24-01-2020|false|Caldwell Zini
+Tenrec, tailless|25-06-2022|false|Kleon Thurlby
+Bee-eater, white-fronted|01-05-2022|false|Nels Fuster
+Hoffman's sloth|01-07-2019|true|Janaya Scourgie
+Beaver, european|14-02-2021|true|Rustin Savary
+Nutcracker, clark's|18-03-2019|false|Shawna Peasegood
+Mouse, four-striped grass|07-04-2022|false|Wye Masseo
+Jackal, asiatic|05-08-2021|false|Rozelle Bucknell
+Bird, black-throated butcher|16-11-2019|true|Bondon Graalman
+Black-throated cardinal|14-05-2019|false|Royall Aubray
+Asian red fox|11-07-2020|true|Gwenora Dispencer
+Native cat|18-03-2020|false|Etan Tybalt
+Snake, western patch-nosed|25-07-2021|false|Dominique Haller
+Sheep, american bighorn|20-05-2021|false|Oralee Pidgeon
+North American porcupine|29-04-2021|true|Kania Horley
+Legaan, ground|19-11-2020|false|Hendrika Viveash
+Hornbill, southern ground|09-02-2020|true|Lay Artin
+Red squirrel|22-09-2022|true|Hettie Spavins
+Roan antelope|25-04-2021|false|Teodoor Clearley
+Black-tailed tree creeper|12-04-2019|false|Ricardo Tapper
+Owl, burrowing|25-05-2019|true|Lorette Arrundale
+Sage grouse|21-03-2019|false|Kenny Swainger
+Suricate|21-07-2022|false|Freddie Cottrill
+African buffalo|03-02-2019|true|Nichol Easton
+Cat, african wild|02-04-2019|false|Anetta Gooderson
+Sociable weaver|02-04-2020|false|Dewie Dyble
+Gazelle, grant's|04-04-2019|true|Mommy Mursell
+Racer, american|14-01-2019|false|Jeramey Tickner
+Stork, white|07-01-2019|false|Petrina Allday
+Galapagos sea lion|20-08-2019|true|Gratia Lakeman
+Blue and gold macaw|01-05-2022|false|Roseanna Bum
+Anteater, giant|23-06-2021|true|Kerby Burger
+Tree porcupine|23-12-2021|true|Norrie Elwel
+Kingfisher, pied|11-12-2021|true|Prince Rozec
+Downy woodpecker|04-06-2021|false|Honor O'Henecan
+Wallaby, euro|23-11-2020|false|Dedra Seilmann
+Dove, galapagos|12-01-2021|true|Cathee Bramsom
+Nubian bee-eater|29-10-2020|true|Boycie Brunsden
+American bighorn sheep|05-12-2019|false|Winnie Handrok
+Beaver, north american|23-12-2018|true|Rosabella Harteley
+Snowy sheathbill|15-01-2022|false|Augustina Bainbrigge
+Mouflon|01-01-2022|true|Else O' Kelleher
+Greater blue-eared starling|19-06-2020|false|Udell Caldes
+Jaeger, long-tailed|01-04-2021|true|Myriam Tejada
+Cape clawless otter|18-10-2021|true|Wildon Chadney
+Mississippi alligator|13-12-2021|true|Goldarina Kubas
+Goose, canada|08-04-2020|true|Urson Beaumont
+Eagle, white-bellied sea|25-02-2019|true|Dorey Cluse
+Rhinoceros, black|21-05-2021|true|Odille Warbey
+Partridge, coqui|20-11-2018|true|Yettie Dacombe
+Common mynah|24-08-2021|true|Phillie Bahlmann
+European badger|16-09-2020|true|Kay Salmoni
+Spur-winged goose|27-07-2022|true|Clevie Zukerman
+Elegant crested tinamou|26-01-2022|true|Perry Ramalhete
+Heron, giant|25-10-2018|true|Kaycee Le Count
+Roseate cockatoo|12-01-2020|true|Emmy Burnip
+Turaco, violet-crested|16-09-2020|true|Alexander Commuzzo
+Albatross, galapagos|02-01-2019|false|Wilona Osburn
+Cardinal, black-throated|11-03-2021|false|Robina Craisford
+Long-finned pilot whale|30-09-2020|false|Shirlene Hame
+Fox, north american red|31-10-2020|true|Zachery Creffield
+Mallard|04-07-2019|true|Nate Velde
+Desert kangaroo rat|05-03-2020|false|Calida Muino
+Crowned eagle|29-07-2021|false|Maggy Drewet
+Booby, blue-footed|25-02-2022|false|Juline Lucy
+Jackal, golden|08-02-2019|false|Erica Donneely
+Western lowland gorilla|22-11-2019|false|Denise Swetmore
+Common brushtail possum|30-07-2021|false|Marchelle Ruddiman
+Lilac-breasted roller|25-03-2020|false|Ronica Huson
+Gemsbok|28-09-2019|true|Noelle McGiff
+American woodcock|01-03-2019|true|Alene Delgardo
+Thirteen-lined squirrel|04-01-2021|false|Angelo Belcham
+Wagtail, african pied|09-11-2019|false|Ardeen Kirckman
+American buffalo|29-11-2021|true|Connie Manoch
+Eagle, bald|13-01-2019|true|Ethelda Eadon
+Common ringtail|10-02-2019|false|Ron Grealish
+Admiral, indian red|17-11-2020|true|Sheba Cicutto
+Hawk, red-tailed|24-01-2022|true|Peder Demko
+Red-necked phalarope|28-06-2020|false|Garey Evason
+Eastern white pelican|23-04-2021|true|Solomon Stowgill
+Duck, blue|02-04-2022|true|Lisetta Jursch
+Zorro, azara's|02-04-2019|true|Fraze Lygoe
+Barrows goldeneye|15-05-2019|false|Helene Kibard
+Gecko (unidentified)|14-03-2021|false|Lenora Yegoshin
+Yellow-brown sungazer|05-08-2021|true|Hendrik Gieraths
+Racer, blue|20-11-2019|false|Cari Jiggins
+Fairy penguin|16-05-2019|false|Joletta Budd
+Monitor lizard (unidentified)|20-10-2020|true|Prudy Mulholland
+Nine-banded armadillo|05-01-2019|true|Zane Rickert
+Antelope ground squirrel|06-10-2021|false|Oriana Guswell
+Denham's bustard|13-06-2021|true|Julianna Growcock
+White-necked stork|14-09-2021|false|Jerrilee Shoute
+Spotted hyena|21-12-2020|false|Rudolf Hazelhurst
+Golden eagle|20-04-2022|false|Kaylee Balsellie
+Eastern boa constrictor|28-08-2021|true|Juliann Lipsett
+White-cheeked pintail|29-11-2019|true|Ettore Cripin
+Emerald green tree boa|23-04-2022|true|Audra Iglesias
+Vervet monkey|08-12-2019|true|Stace Ellerton
+Mountain goat|20-11-2021|true|Leslie Gronous
+North American river otter|04-08-2020|true|Thornie Benda
+White-throated kingfisher|20-12-2019|true|Albertina Brettoner
+Grey mouse lemur|30-09-2021|false|Sid O'Shee
+Squirrel, red|12-06-2019|true|Karol Orvis
+Long-nosed bandicoot|29-03-2022|true|Clari Castanaga
+African red-eyed bulbul|09-03-2019|true|Mara Ghelardi
+Carpet python|15-11-2019|true|Chuck Ensten
+Alligator, mississippi|25-08-2019|false|Myrna Evequot
+Grant's gazelle|08-05-2020|true|Kermie Nester
+American buffalo|18-07-2020|false|Mufinella Barwick
+Antelope, roan|24-07-2019|true|Darrin Coombs
+Indian leopard|21-02-2021|true|Sabra Carnson
+Red-tailed hawk|13-08-2019|false|Prentice Brearley
+Painted stork|25-03-2020|false|Liane Ogborne
+Galapagos penguin|21-09-2019|false|Joella Jakubovics
+Deer, mule|06-12-2018|false|Johanna Oakland
+Dragonfly, russian|28-07-2022|true|Adolph Eccersley
+Nuthatch, red-breasted|18-03-2019|true|Holt Deex
+Dromedary camel|09-04-2020|false|Jaquelyn Jesper
+Eastern white pelican|05-01-2020|false|Beitris Fontanet
+Stork, white|15-06-2021|false|Lindsey Tucsell
+Sea birds (unidentified)|18-05-2022|false|Linoel Barneville
+Red-knobbed coot|23-09-2019|true|Minerva Perazzo
+Thrasher, curve-billed|18-09-2022|true|Pansy Duffie
+Sacred ibis|27-12-2020|true|Jeffry Byrcher
+Swallow (unidentified)|12-11-2019|false|Jarvis Pittock
+Square-lipped rhinoceros|25-03-2020|false|Hedwiga Greschke
+Arctic ground squirrel|05-03-2021|false|Elfreda Kleynermans
+Bateleur eagle|26-05-2019|true|Valdemar Roebuck
+Timber wolf|12-04-2019|false|Guendolen Atteridge
+Magnificent frigate bird|26-05-2020|false|Aloysia Armal
+Openbill stork|17-04-2020|false|Kearney Mithan
+Monkey, rhesus|26-07-2021|false|Aimil Drummond
+Red sheep|06-08-2019|false|Anabella Tosh
+Lizard, frilled|24-06-2022|true|Claresta Hadenton
+Vulture, egyptian|21-12-2021|false|Pepita Minchindon
+Oryx, fringe-eared|21-05-2021|false|Thea Groll
+Hare, arctic|12-07-2021|false|Stephan Hutten
+Eurasian badger|19-07-2019|false|Lusa Cabrer
+Cape clawless otter|15-08-2020|false|Carmelia Wardlaw
+Weaver, white-browed sparrow|07-11-2021|false|Westleigh Jeffes
+Amazon parrot (unidentified)|10-01-2021|true|Opaline Godlip
+Ring dove|23-04-2020|false|Zsa zsa Rennolds
+Jaguarundi|18-05-2020|false|Ermin Ramel
+Deer, red|14-09-2021|true|Luis Dunleavy
+Phalarope, red-necked|12-04-2020|false|Loreen Sexcey
+Cormorant, king|08-11-2020|false|Hebert Wicher
+Dusky gull|30-04-2020|false|Sigvard Olufsen
+Flamingo, chilean|13-10-2021|true|Chevy Ivimey
+Four-striped grass mouse|08-04-2020|true|Clemmie Fodden
+Waxbill, blue|06-02-2019|false|Wallie Taillant
+Indian star tortoise|09-10-2019|true|Gae Brabben
+Snake, green vine|04-05-2021|false|Errol Wimmers
+Woylie|01-12-2020|false|Larina Tarplee
+Shelduck, common|10-01-2021|false|Carmelita Sandeman
+Burmese brown mountain tortoise|27-11-2020|true|Hillel Teggart
+Sheep, american bighorn|10-11-2018|false|Meriel Karpushkin
+Giant girdled lizard|05-02-2020|false|Wilbert Geraldi
+Hyena, spotted|19-12-2019|false|Clerkclaude Higgan
+Ringtail cat|24-02-2020|true|Theodora Frusher
+Tortoise, asian foreset|24-09-2022|true|Renell Borges
+Yellow-necked spurfowl|30-08-2019|true|Cristiano Fearick
+Admiral, indian red|29-11-2020|false|Winni Littleproud
+Nyala|02-11-2021|true|Jenine Kellart
+Lark, horned|29-03-2021|false|Robbyn Paff
+Northern phalarope|21-01-2020|false|Lark Genthner
+Screamer, crested|21-03-2022|false|Silvain Stell
+Heron, green-backed|29-11-2019|false|Mellicent Lindsley
+Gerenuk|27-03-2021|false|Annelise Dofty
+Tortoise, asian foreset|14-09-2019|true|Rhoda Bamborough
+Common brushtail possum|12-10-2021|true|Lauren Grigoriscu
+Antechinus, brown|09-04-2022|true|Alanna Ainger
+Azara's zorro|08-04-2022|false|Constantina Coxhead
+Lorikeet, scaly-breasted|05-11-2021|true|Cob McGuirk
+Galapagos tortoise|06-08-2020|false|Talya Giacobazzi
+Glider, sugar|23-04-2021|true|Even Mapp
+Great skua|24-07-2020|false|Dedie Szymanowski
+African wild dog|01-02-2019|false|Tabatha Mountjoy
+Impala|17-08-2022|true|Dot Colloby
+Sage grouse|06-08-2019|false|Isahella Sand
+Ibis, glossy|16-09-2019|true|Isabel MacEllen
+Woylie|28-11-2019|false|Clarisse Norker
+Spotted-tailed quoll|14-08-2021|false|Cahra Troyes
+Egret, great|16-06-2022|false|Katlin Bassham
+Oribi|25-04-2021|true|Moselle Benito
+European beaver|31-08-2019|true|Joya Dudgeon
+Alligator, mississippi|10-05-2019|false|Barny Glasser
+Cardinal, black-throated|05-03-2019|true|Mavis Scoles
+Greylag goose|04-02-2022|true|Vevay Senogles
+Bustard, kori|19-11-2020|true|Nickolai Wenban
+Gambel's quail|23-08-2019|false|Pancho Decayette
+Hawk-headed parrot|29-04-2020|false|Teodoro Leonards
+Gecko, barking|15-06-2021|false|Dorothy Studdeard
+Marten, american|10-03-2022|false|Jdavie May
+Trumpeter, green-winged|09-09-2022|false|Lewiss Sivil
+Lechwe, kafue flats|04-06-2022|false|Aridatha Alfonsetti
+Lion, asian|25-08-2020|true|Bevin Jakubowski
+Indian star tortoise|19-07-2020|true|Emmie Kerrich
+Carmine bee-eater|27-12-2019|false|Asher Irwin
+Weaver, lesser masked|26-07-2019|false|Radcliffe Abry
+Pigeon, feral rock|05-05-2021|true|Fitz Seden
+Seal, harbor|31-01-2019|true|Valerie Dunford
+Cormorant, javanese|10-06-2022|true|Vilma Redmain
+Little heron|03-01-2019|false|Evangelia Batalle
+Owl, great horned|13-02-2020|true|Ingemar Lis
+Bear, sloth|07-04-2019|false|Ezequiel Warlock
+Robin, white-throated|02-08-2019|false|Biron Davioud
+Canadian tiger swallowtail butterfly|24-11-2018|true|Anatol Jezzard
+Red-winged blackbird|04-11-2019|true|Stearne Atteridge
+Bonnet macaque|19-03-2022|false|Vick Antcliffe
+Baboon, yellow|12-07-2022|true|Vlad Chasles
+Hyrax|25-09-2021|false|Lorrie Sinnat
+Mockingbird, galapagos|23-04-2021|true|Ginevra Elstow
+Cardinal, red-capped|27-02-2019|true|Karolina Kerfoot
+Dove, rock|25-09-2020|true|Tom Gibbings
+Genet, common|13-04-2021|false|El Ilewicz
+Tawny eagle|08-10-2021|false|Dalli Willoughby
+Macaw, red and blue|19-10-2021|false|Gerri Vance
+Barbet, black-collared|25-12-2020|true|Agnese Worsnop
+White-mantled colobus|01-03-2019|false|Granny Fargie
+Water monitor|24-10-2019|true|Zena Bennen
+Swan, trumpeter|02-01-2021|false|Vivi Yardley
+Northern fur seal|23-04-2020|false|Lydon Attewell
+Kafue flats lechwe|25-11-2018|false|Easter Prester
+Booby, masked|02-08-2019|true|Berthe Dunbabin
+Azara's zorro|17-07-2020|false|Avivah Divis
+Greater flamingo|20-12-2018|false|Thaddus Greensall
+Yellow baboon|13-08-2020|true|Hedy Godden
+Stork, saddle-billed|03-07-2021|true|Whitney McGeouch
+Stick insect|11-10-2018|false|Si Heller
+Boa, columbian rainbow|17-02-2022|false|Lindsey Coulling
+Spurfowl, yellow-necked|19-03-2019|true|Millicent Jordeson
+Magistrate black colobus|18-04-2021|false|Fiona Chedzoy
+Field flicker|28-09-2021|false|Calley Tanti
+Cat, toddy|03-12-2019|true|Dacia Sivill
+Killer whale|14-12-2019|true|Kali Grocutt
+White-necked stork|03-05-2020|true|Haleigh Jacke
+Trotter, lily|13-09-2019|true|Florenza Pennick
+Francolin, coqui|18-11-2018|true|Dahlia Dufton
+King vulture|19-10-2020|false|Thaxter Egleton
+Bear, sloth|28-07-2019|true|Onfre Lansley
+Ferruginous hawk|29-05-2022|true|Baxter Karlqvist
+Bobcat|25-10-2018|false|Marylou Parram
+Ostrich|12-04-2022|true|Rosana Drohun
+Green-winged macaw|11-08-2022|false|Iosep Fellow
+Short-nosed bandicoot|25-06-2019|true|Biddy Graveston
+Southern boubou|30-07-2022|true|Raleigh Varga
+Euro wallaby|07-11-2021|true|Lynea Exley
+Stanley crane|11-11-2020|false|Berkeley Jerschke
+Sheep, american bighorn|03-04-2020|false|Audry Schoales
+Bird, pied butcher|08-12-2018|true|Karissa Sparshutt
+Puma|30-10-2019|false|Ulysses Hallsworth
+White-necked raven|06-10-2019|false|Will Norton
+Duck, white-faced whistling|19-05-2021|true|Brose Stolworthy
+Tiger cat|12-12-2021|true|Barbaraanne Duggon
+Racer snake|03-12-2019|false|Rowen Beernaert
+Topi|24-12-2021|true|Cathlene O'Glassane
+Lily trotter|12-06-2019|true|Talbert Readwood
+Common brushtail possum|14-02-2022|true|Polly Simonazzi
+Australian brush turkey|17-12-2020|true|Tracie Casel
+Lorikeet, scaly-breasted|11-03-2021|true|Heidi Dalrymple
+Hippopotamus|03-04-2019|false|Joli Taillant
+Arctic ground squirrel|20-08-2022|false|Marlon Gudger
+Blue crane|06-07-2021|true|Aurelia Boyland
+Boa, columbian rainbow|06-01-2022|false|Renelle Meineck
+Bear, grizzly|27-05-2019|false|Errol Treleaven
+Roller, lilac-breasted|03-10-2021|false|Sean Bauduin
+Bird, bare-faced go away|30-04-2020|true|Amelina Pahlsson
+Comb duck|28-07-2019|true|Konstantin Mayston
+Striated heron|10-10-2021|false|Mortimer Tyreman
+Sungazer, yellow-brown|01-10-2022|true|Saleem Patriche
+Egret, snowy|25-07-2021|true|Henrietta Durak
+Stork, woolly-necked|29-07-2021|false|Jasper McGraffin
+Capuchin, weeper|30-08-2019|false|Kerry Grabban
+Common nighthawk|30-03-2019|true|Gerrilee Askham
+Common grenadier|06-01-2022|false|Fidelio Croke
+Tarantula|25-03-2022|false|Falkner Clineck
+Tern, arctic|29-01-2019|false|Brietta Buckenham
+Wildebeest, blue|09-02-2019|false|Saree Normadell
+Common grenadier|06-09-2020|true|Charlie Muscat
+Northern fur seal|29-11-2019|true|Walton Irlam
+Red and blue macaw|06-09-2020|false|Chancey Halso
+Civet, common palm|25-11-2018|false|Kacie Roggero
+Giant heron|23-07-2019|true|Dale Mordey
+Eastern fox squirrel|07-02-2019|true|Bobbie Duley
+Wood pigeon|19-03-2022|true|Osborne McCreagh
+Brown lemur|06-10-2021|true|Toby Suffield
+Common shelduck|11-08-2022|true|Hoyt Buddles
+Mouse, four-striped grass|29-01-2021|true|Dev Kryzhov
+Macaque, japanese|23-07-2021|false|Cristy Danilovitch
+Arctic tern|14-02-2022|true|Walther Malyj
+Common brushtail possum|18-09-2021|false|Clark Da Costa
+Otter, cape clawless|21-06-2020|true|Jule Blois
+Hudsonian godwit|05-10-2020|false|Rabi Kimmitt
+Pademelon, red-legged|05-09-2022|true|Micky Belderson
+Laughing kookaburra|19-03-2020|true|Forest Giacovelli
+Collared lemming|16-12-2020|true|Timmy Litel
+Asian false vampire bat|11-01-2021|true|Adrianna Farady
+Stone sheep|26-09-2019|true|Jazmin Labes
+Duck, blue|19-06-2019|false|Babbette Spivey
+Otter, small-clawed|09-12-2018|true|Kylie Kitchingham
+Bahama pintail|11-08-2020|true|Meryl Jasper
+Wallaby, whip-tailed|21-01-2021|true|Georgetta Thonason
+Roe deer|05-08-2022|true|Hatty Hogben
+Cat, miner's|05-02-2019|false|Patti Giorgioni
+African lynx|25-07-2021|false|Arabelle Luipold
+Brown hyena|05-01-2022|true|Stephen Kagan
+Golden eagle|18-08-2020|false|Hugues Kelmere
+Penguin, magellanic|02-12-2019|false|Bordie Swanger
+Netted rock dragon|03-01-2020|true|Maritsa Brunone
+Springhare|26-05-2019|true|Elmo Elger
+Vulture, king|16-09-2022|false|Sofia Clemintoni
+Catfish, blue|18-12-2020|false|Stillmann Linster
+Cobra, egyptian|15-02-2019|true|Shell Pigeram
+Richardson's ground squirrel|14-09-2019|false|Theresa Sivil
+Beaver, american|14-08-2020|true|Winslow Holgan
+African wild dog|30-10-2021|true|Gill Kalinovich
+Barrows goldeneye|12-08-2020|true|Joyan Lodwig
+Snake, green vine|23-08-2021|false|Wanda Fritschel
+Rat, arboral spiny|13-12-2018|false|Callean Henrion
+Bustard, stanley|11-06-2021|false|Alonso Sidsaff
+Deer, spotted|28-01-2021|false|Zarah Headly
+Whale, killer|03-07-2020|true|Murial Willock
+Kaffir cat|02-09-2019|true|Lowrance Madison
+Penguin, little blue|04-05-2021|true|Jedd Sturton
+Long-billed corella|06-07-2019|true|Rozamond Wackett
+Grey fox|30-10-2020|true|Terry Scotts
+Lesser mouse lemur|04-04-2019|true|Libbey Gotmann
+Blackish oystercatcher|22-03-2019|false|Clementine Langrish
+Lion, mountain|13-12-2020|false|Sileas Follan
+Stork, painted|24-12-2021|false|Sallee Blackaby
+Avocet, pied|03-12-2020|true|Aeriel Worshall
+Superb starling|02-08-2022|false|Pen Albone
+Lesser double-collared sunbird|04-06-2021|true|Bealle Rochewell
+Yellow-billed stork|07-11-2019|true|Andra Pomroy
+Yellow-necked spurfowl|22-06-2021|true|Ulla Skelding
+Wood pigeon|14-03-2019|true|Shawn D'Alesco
+Pheasant, ring-necked|22-09-2021|false|Candy Pillifant
+Squirrel, indian giant|20-11-2019|true|Yelena Dorken
+Buffalo, asian water|11-01-2022|true|Wileen Schild
+Pintail, white-cheeked|04-07-2020|true|Leora Martonfi
+Yellow-brown sungazer|01-12-2020|true|Daveta Schustl
+Tiger|01-07-2022|false|Erminie Gunny
+Tortoise, galapagos|11-03-2021|false|Delphine Heinert
+Red-necked phalarope|24-08-2021|false|Ruthe Bilton
+Cat, cape wild|15-07-2021|false|Damaris Melville
+Stanley crane|06-09-2020|false|Julissa Motte
+Lappet-faced vulture|07-03-2019|true|Cash Louiset
+Savanna baboon|10-03-2020|true|Priscilla Scoles
+Golden jackal|02-12-2020|false|Marylee Harmeston
+Duiker, common|20-01-2020|true|Lavina Denson
+Egyptian cobra|24-01-2020|true|Rubi Haborn
+Crested barbet|01-07-2022|true|Eydie Collinette
+Avocet, pied|09-02-2019|false|Bayard Bartelot
+Black-backed jackal|09-11-2020|true|Gianni Caseri
+Coatimundi, ring-tailed|16-11-2019|true|Deni Cleef
+Hen, sage|15-11-2018|false|Nikos Buswell
+Asian openbill|05-09-2022|true|Rainer Ragborne
+Seal, harbor|09-12-2020|true|Tarah Whitelaw
+Goose, knob-nosed|24-06-2019|true|Nickie Bevans
+Coqui francolin|13-11-2021|true|Kristal O'Nowlan
+Egyptian viper|16-09-2019|false|Martie Tixier
+Crocodile, nile|21-03-2020|true|Royal Roumier
+Butterfly, canadian tiger swallowtail|01-08-2022|true|Vincenty Maas
+Galapagos dove|10-09-2020|true|Florence Brownjohn
+Raven, cape|11-10-2019|false|Stevie Wessell
+Hawk, galapagos|29-09-2020|false|Randal Goodale
+Sloth, hoffman's|16-09-2019|true|Carlynne Girardoni
+Butterfly, canadian tiger swallowtail|22-07-2021|true|Werner Pieroni
+Roseate cockatoo|05-11-2018|false|Merl Stabbins
+Common goldeneye|17-06-2019|true|Blondell Melson
+Red-winged hawk (unidentified)|25-11-2019|true|Fayth Duckerin
+Lizard (unidentified)|22-11-2018|false|Cathie Comolli
+Red-tailed hawk|28-05-2020|false|Essie Yarr
+Eagle, golden|13-01-2022|false|Claudina Fitzsimmons
+Turtle, snake-necked|23-06-2022|true|Sandie Isaaksohn
+Legaan, ground|04-07-2022|false|Andra Triplet
+Elephant, african|17-02-2021|false|Desmund Nucci
+Greater rhea|16-12-2020|false|Hobey Clabburn
+White-winged dove|17-05-2020|false|Electra Osgar
+Northern phalarope|26-08-2022|false|Natka Cuttin
+Long-tailed skua|03-05-2021|true|Coretta Tilly
+Red phalarope|22-10-2020|false|Corbett Pail
+Black-footed ferret|03-08-2022|false|Herbert Proudlock
+Squirrel, european red|08-03-2022|true|Camey Clitsome
+Goose, knob-nosed|11-06-2022|true|Amandie Kilmartin
+Greylag goose|18-12-2018|false|Sashenka Delort
+Pelican, brown|18-06-2021|false|Stevena Gummary
+Racer snake|25-12-2020|false|Lemuel Penton
+Indian giant squirrel|03-12-2019|false|Gabbie Pincott
+Hen, sage|10-04-2022|true|Miguel Cauderlie
+Glider, feathertail|12-02-2021|true|Mead Firminger
+Crested barbet|17-02-2021|false|Malissia Yarrow
+Vulture, turkey|22-05-2019|true|Tris Barnish
+Javan gold-spotted mongoose|06-05-2020|true|Germayne Callaby
+Monster, gila|11-03-2020|true|Emeline Moult
+Fox, arctic|20-03-2022|true|Forrester Klishin
+Jackal, black-backed|04-07-2021|false|Waylin Sichardt
+Polar bear|17-09-2019|false|Jock Titterell
+Heron, yellow-crowned night|05-05-2020|true|Nolana Peregrine
+Eastern boa constrictor|12-12-2019|true|Patience Cornil
+Spurfowl, yellow-necked|25-08-2019|true|Leonelle Stemson
+Viper, egyptian|09-01-2021|true|Umberto Heaslip
+Cat, civet|23-12-2018|true|Alisha Brettoner
+Steller's sea lion|27-12-2019|true|Sarena Bruhnicke
+Tammar wallaby|27-05-2022|false|Faun Leverton
+Giant anteater|03-05-2022|true|Norbie Sorsby
+Ox, musk|17-09-2020|true|Brien Wreford
+Bat, little brown|23-05-2020|false|Bank Seifert
+Polar bear|13-04-2021|true|Sephira Graver
+Lizard (unidentified)|30-08-2021|false|Maureen Sisneros
+Oryx, beisa|18-11-2020|false|Sadie Gilroy
+Eagle, tawny|03-07-2020|true|Felicle Tamburi
+American alligator|06-04-2020|true|Jocelyn Cursey
+Secretary bird|20-05-2022|true|Michele Giovannelli
+Black-capped chickadee|20-09-2020|false|Dulcine Wealthall
+Rufous-collared sparrow|30-07-2019|true|Perl Croneen
+Deer, black-tailed|20-01-2020|false|Terra Archbell
+Two-banded monitor|15-05-2020|true|Joleen Brocklesby
+Zebra, common|04-09-2020|false|Bernardine Buey
+Dusky rattlesnake|03-01-2019|true|Marvin Belchambers
+Common wolf|22-06-2019|true|Zak Burlingame
+Black-cheeked waxbill|26-12-2019|true|Olly Cashley
+Yellow-necked spurfowl|26-01-2022|true|Mariele Rediers
+Cobra, egyptian|03-01-2022|false|Tera Iacopetti
+Starling, red-shouldered glossy|08-09-2021|false|Ruth Carless
+Woodrat (unidentified)|28-12-2018|true|Darb Halsho
+Eagle, bald|20-06-2019|false|Milissent Di Pietro
+American alligator|02-09-2019|false|Marcia Freda
+Lemming, arctic|09-02-2019|true|Rora Tolumello
+Gull, dusky|16-06-2020|true|Paulie Stronge
+Red hartebeest|10-07-2020|false|Cyndy Faichney
+Anteater, australian spiny|19-12-2018|false|Zack Espinazo
+Tortoise, burmese brown mountain|09-01-2021|false|Elias O'Brian
+Kudu, greater|08-04-2022|true|Delbert O'Keevan
+African elephant|15-07-2020|true|Ryun Aldgate
+Long-finned pilot whale|17-05-2021|true|Deirdre Stower
+Stilt, black-winged|23-08-2022|false|Tabbie Nestle
+North American red fox|16-09-2020|true|Jerrilyn Calles
+Snake, eastern indigo|04-06-2021|false|Dalton Meth
+Elegant crested tinamou|03-10-2020|false|Tadeo Brooksby
+White-faced whistling duck|18-06-2020|false|Gualterio Cazin
+Brindled gnu|07-03-2020|false|Tressa Guard
+Amazon parrot (unidentified)|11-10-2018|false|Carrissa Chadbourn
+White-throated monitor|05-01-2020|false|Zita Matt
+Tortoise, radiated|05-12-2020|true|Christopher Christmas
+Lily trotter|19-05-2020|false|Zolly Swatridge
+Barbet, levaillant's|11-08-2020|false|Alida Bendan
+American bison|03-06-2021|true|Aila Parrish
+Black vulture|13-04-2021|true|Caty Jaffray
+Baboon, chacma|02-06-2020|true|Greer Dyball
+Komodo dragon|29-03-2021|false|Robena Tinn
+Black-throated cardinal|25-10-2018|true|Dominica Penketh
+Galapagos tortoise|30-06-2019|true|Leroy McKirdy
+Oryx, beisa|12-02-2022|false|Roldan Mateo
+Yellow-necked spurfowl|01-05-2022|true|Jojo Belch
+Pintail, white-cheeked|05-02-2019|true|Nikki Phipson
+Western palm tanager (unidentified)|03-10-2019|true|Marlie Baudinelli
+Desert kangaroo rat|28-10-2021|false|Silvester Gilffilland
+Sage grouse|25-08-2021|true|Nolana Tregonna
+Sparrow, rufous-collared|15-08-2020|false|Tamiko Tremellan
+Painted stork|12-10-2018|true|Reggie Jonah
+Wallaby, whip-tailed|31-10-2021|true|Devlin O'Neil
+Common zorro|10-05-2020|false|Sonny Masser
+Jackal, golden|08-02-2022|true|Sandi Bruhnicke
+Kudu, greater|23-03-2020|true|Tanhya McNelly
+African wild dog|14-09-2022|false|Martguerita Lampert
+Falcon, prairie|02-06-2019|true|Rowena Brookes
+Pie, indian tree|24-03-2019|false|Adey Daughtry
+Blue fox|10-10-2021|true|Colleen Pitherick
+Blue duck|07-02-2020|true|Dagny Willoughey
+Moccasin, water|18-11-2019|false|Brandy Kilshaw
+Gazelle, thomson's|21-01-2020|true|Ermentrude Hynam
+Dromedary camel|07-12-2018|true|Jami Flippelli
+Baboon, chacma|17-05-2020|false|Jessi Husbands
+White-necked stork|20-06-2021|false|Emylee Morsom
+Catfish, blue|13-01-2020|false|Lind Pead
+Bald eagle|14-02-2021|true|Saul Gerhold
+Andean goose|19-10-2021|true|Tony Abelwhite
+Wolf spider|09-12-2019|false|Obadiah Kilbourne
+Possum, golden brush-tailed|19-06-2021|true|Trudie Wheater
+Currasow (unidentified)|29-09-2021|true|Olwen Stawell
+Long-tailed jaeger|07-03-2019|false|Ellene Petch
+Pelican, australian|17-11-2021|false|Izak Orr
+Cormorant (unidentified)|25-12-2020|true|Maegan Physic
+Yak|22-02-2020|true|Devora Auletta
+Common seal|22-10-2020|true|Kirsteni Fergyson
+Scarlet macaw|17-12-2020|false|Hermia Muriel
+Hanuman langur|01-05-2022|false|Dulcie Cullity
+Genoveva|30-01-2021|true|Tanya O'Kuddyhy
+Greater roadrunner|23-10-2018|false|Effie Rendle
+Knob-nosed goose|15-05-2021|false|Hettie Haycock
+Starling, greater blue-eared|20-04-2020|false|Gerrie Balloch
+Anteater, australian spiny|22-09-2022|false|Layton Snell
+Owl, snowy|08-05-2020|true|Phoebe Anear
+Deer, spotted|09-01-2019|true|Frazier Legrand
+Fat-tailed dunnart|31-03-2021|false|Tymon Martinec
+Possum, western pygmy|23-01-2020|false|Tucky Callingham
+Jungle kangaroo|24-10-2019|true|Tedmund Clemendet
+Beaver, north american|12-04-2020|true|Jenda Lasham
+Lourie, grey|24-01-2022|false|Cindie Amey
+Wallaby, bennett's|16-01-2020|true|Riva Stannas
+Monster, gila|19-12-2021|true|Ranee Skyrm
+Weaver, chestnut|12-05-2022|false|Jacques Capun
+Indian tree pie|17-03-2019|true|Dreddy Spittall
+Asian false vampire bat|10-08-2022|false|Harland Withinshaw
+Squirrel, richardson's ground|21-04-2019|false|Thayne Writtle
+Phalarope, grey|13-08-2022|true|Dylan Ell
+Dragon, komodo|09-11-2021|true|Ofelia Preedy
+Andean goose|01-07-2021|false|Vicki Thornborrow
+Great white pelican|24-07-2022|true|Tobe Bolens
+Magistrate black colobus|11-04-2019|true|Angelo Barrand
+Secretary bird|27-02-2022|false|Thorsten Burrel
+Barking gecko|19-05-2020|true|Hamnet Pawelec
+Kangaroo, brush-tailed rat|25-12-2021|false|Ashil Agglio
+Square-lipped rhinoceros|07-07-2021|true|Adoree Duffield
+Kori bustard|01-02-2021|true|Eugine Berney
+Asiatic wild ass|04-06-2019|false|Seamus McGavin
+Roan antelope|10-01-2021|false|Nadine Halworth
+Genoveva|29-09-2020|true|Layla Lempke
+Komodo dragon|04-11-2020|false|Constanta Stanistrete
+Falcon, prairie|26-10-2019|false|Cari Farquarson
+Black-crowned crane|05-04-2020|true|Leshia McPhelim
+Springhare|20-03-2019|false|Corbet Clac
+Jackal, silver-backed|07-07-2022|false|Vinnie Billingsley
+Black swan|21-06-2022|false|Nissie Mellish
+Blue-tongued lizard|14-04-2021|false|Aaron Brummell
+African red-eyed bulbul|26-06-2019|true|Ed Dufaur
+Tailless tenrec|16-06-2019|false|Roobbie Allom
+Madagascar hawk owl|15-02-2019|true|Lynelle McKeowon
+Phascogale, brush-tailed|14-07-2020|false|Gerick Cecere
+Seal, northern fur|08-07-2022|true|Coriss Bigham
+Hornbill, southern ground|22-04-2021|true|Johnny Carleton
+Trotter, lily|22-01-2020|true|Dagmar Snazel
+Brown and yellow marshbird|20-09-2019|true|Sidoney Joutapaitis
+Tern, white-winged black|13-01-2021|true|Locke Quinlan
+Porcupine, prehensile-tailed|26-05-2021|true|Harlan Leggatt
+Ibis, sacred|09-03-2019|true|Diarmid Baumaier
+Bateleur eagle|31-07-2022|false|Hieronymus Whannel
+Waterbuck, defassa|02-05-2022|true|Hersch Legate
+Turkey, common|06-11-2019|false|Remy McCreagh
+Skua, long-tailed|21-11-2018|true|Mikel Paulillo
+Kongoni|20-01-2020|true|Shayne Orrobin
+Moorhen, purple|23-10-2020|true|Flory Willingham
+Deer, barasingha|30-03-2020|true|Myron Goldspink
+Black-crowned night heron|04-05-2022|true|Angele Crasford
+Ring-tailed possum|17-04-2022|false|Frieda Cutts
+Meerkat, red|27-02-2021|true|Alane Bramsen
+Vulture, egyptian|25-03-2022|false|Sophronia Powers
+Red-capped cardinal|20-04-2021|false|Aldon Brandle
+Palm squirrel|14-06-2021|false|Reynolds Rowsel
+Griffon vulture|17-11-2018|true|Sella Chicken
+Toucan, red-billed|23-05-2021|false|Gladi Blas
+Green vine snake|26-04-2019|false|Hugh Aldus
+White-tailed jackrabbit|09-01-2020|true|Bram Linskey
+Puma|22-08-2021|true|Jerrylee Howerd
+Wood pigeon|14-05-2021|false|Ranee Greave
+Yellow-throated sandgrouse|18-02-2020|true|Ellary Cracker
+Egyptian viper|17-05-2021|false|Bondon Pentycost
+Indian giant squirrel|04-08-2019|true|Etta Randales
+Asiatic wild ass|02-06-2022|true|Wilfred Vicarey
+Wolf, mexican|31-10-2020|true|Moyna Houlworth
+Burmese black mountain tortoise|11-07-2020|true|Lyman Gurry
+Klipspringer|08-12-2019|true|Ronica Everall
+Flightless cormorant|26-05-2021|true|Aurora Alban
+Bustard, denham's|05-01-2020|true|Gabie Devonald
+Partridge, coqui|29-05-2021|false|Beale Giabuzzi
+Moose|19-07-2019|false|Sonni Vedeneev
+African skink|18-09-2021|true|Clare Lukianovich
+Purple moorhen|08-04-2021|false|Karel Josebury
+Black-cheeked waxbill|28-05-2021|false|Ellery Pafford
+Red meerkat|03-08-2021|true|Rae Fudger
+Feathertail glider|28-11-2019|false|Susi Knell
+Waxbill, violet-eared|06-11-2018|false|Rafaela Jersh
+Glossy starling (unidentified)|31-12-2018|false|Alexandrina Hallowes
+Sacred ibis|29-02-2020|true|Danette Safhill
+Black-throated cardinal|09-12-2021|false|Taylor Addess
+Black kite|23-06-2022|true|Bryn Krystek
+Tortoise, indian star|05-08-2021|false|Marinna Nelthropp
+Parakeet, rose-ringed|27-03-2022|true|Yoko Pyffe
+Jaguar|08-01-2020|true|Audrye Beneze
+Brown capuchin|06-01-2022|true|Cortie Livingstone
+Red-capped cardinal|30-03-2022|false|Leodora Hopkynson
+Monitor, white-throated|31-01-2019|true|Hasty Rippingall
+Rat, arboral spiny|22-07-2022|true|Sonnie Pero
+Andean goose|07-11-2020|false|Michale Blasli
+Gelada baboon|03-08-2020|true|Meade Milier
+Jaguarundi|17-04-2022|true|Abbey Baldinotti
+Blue waxbill|08-05-2022|true|Mickey Garside
+Common green iguana|21-06-2022|true|Bibi Queripel
+Red-knobbed coot|11-01-2021|false|Gearalt Nehls
+Hedgehog, south african|28-05-2019|false|Darlene Douberday
+Dog, black-tailed prairie|12-05-2019|true|Corie Giraudy
+Flamingo, lesser|02-03-2022|true|Bethanne Moret
+Trumpeter swan|29-04-2022|false|Ugo Vanelli
+White-eye, cape|03-11-2018|false|Hermia Sutherington
+Screamer, southern|10-06-2021|false|Dorise MacCart
+Sable antelope|28-10-2019|false|Edgar Eckh
+White-eye, cape|11-09-2021|false|Ki Mailes
+Fisher|01-07-2022|false|Mendel Igglesden
+Heron, black-crowned night|10-08-2019|false|Shanan Deek
+Blue and yellow macaw|27-11-2020|true|Denys Shemmans
+Starling, red-shouldered glossy|01-11-2018|true|Marnie Wellbeloved
+Badger, honey|16-03-2021|true|Britt Chapelhow
+Hoary marmot|29-10-2021|true|Simmonds MacGauhy
+Weaver, white-browed sparrow|09-12-2020|false|Sheri Lucius
+Jackal, black-backed|14-02-2021|false|Johnna Milksop
+Kangaroo, western grey|05-04-2019|true|Reade Ilyushkin
+Parrot, hawk-headed|30-04-2020|true|Winni Cockett
+Puna ibis|16-12-2020|true|Kip Greenless
+Rainbow lory|02-03-2020|true|Stephi Hanselmann
+Northern elephant seal|24-04-2019|true|Hattie Grayshan
+Two-toed tree sloth|21-05-2020|false|Milton Chaffyn
+Curve-billed thrasher|20-08-2021|false|Rafaellle Stratton
+Magellanic penguin|22-05-2019|false|Roanna Mallard
+Roller, lilac-breasted|02-09-2019|true|Sybille Corbie
+Knob-nosed goose|09-06-2020|false|Jecho Tribe
+Rhea, gray|24-10-2020|true|Orson Redmille
