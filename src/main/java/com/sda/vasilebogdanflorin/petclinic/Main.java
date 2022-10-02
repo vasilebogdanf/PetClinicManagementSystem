@@ -1,9 +1,12 @@
 package com.sda.vasilebogdanflorin.petclinic;
 
+import com.sda.vasilebogdanflorin.petclinic.controller.ConsultController;
 import com.sda.vasilebogdanflorin.petclinic.controller.PetController;
 import com.sda.vasilebogdanflorin.petclinic.controller.VetController;
+import com.sda.vasilebogdanflorin.petclinic.repository.ConsultRepositoryImpl;
 import com.sda.vasilebogdanflorin.petclinic.repository.PetRepositoryImpl;
 import com.sda.vasilebogdanflorin.petclinic.repository.VetRepositoryImp;
+import com.sda.vasilebogdanflorin.petclinic.service.ConsultServiceImpl;
 import com.sda.vasilebogdanflorin.petclinic.service.PetServiceImpl;
 import com.sda.vasilebogdanflorin.petclinic.service.VetServiceImpl;
 import com.sda.vasilebogdanflorin.petclinic.utils.SessionManager;
@@ -16,7 +19,12 @@ public class Main {
         SessionManager.getSessionFactory();
         VetController vetController=new VetController(new VetServiceImpl(new VetRepositoryImp()));
         PetController petController=new PetController(new PetServiceImpl(new PetRepositoryImpl()));
-
+        ConsultController consultController = new ConsultController(new ConsultServiceImpl(
+                new VetRepositoryImp(),
+                new PetRepositoryImpl(),
+                new ConsultRepositoryImpl()
+        )
+        );
         UserOption userOption;
         Scanner scanner=new Scanner(System.in);
         do {
@@ -57,6 +65,8 @@ public class Main {
                 case IMPORT_PETS:
                     petController.importPets();
                     break;
+                case CREATE_CONSULT:
+                    consultController.createConsult();
                 case EXIT:
                     System.out.println("Bye");
                     break;

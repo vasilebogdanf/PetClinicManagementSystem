@@ -11,6 +11,8 @@ public enum UserOption {
     IMPORT_VETS(7,"Import vets"),
 
     IMPORT_PETS(8,"Import pets"),
+
+    CREATE_CONSULT (9,"Create consult"),
     EXIT(99,"Exit!"),
 
 

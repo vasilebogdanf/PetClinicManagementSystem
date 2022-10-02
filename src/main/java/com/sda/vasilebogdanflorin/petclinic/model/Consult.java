@@ -19,6 +19,17 @@ public class Consult {
     @JoinColumn(name="vet_id")
     private Vet vet;
 
+    public Consult() {
+
+    }
+
+    public Consult(Date date, String description, Vet vet, Pet pet) {
+        this.date = date;
+        this.description = description;
+        this.vet = vet;
+        this.pet = pet;
+    }
+
     @ManyToOne
     @JoinColumn(name="pet_id")
     private Pet pet;
